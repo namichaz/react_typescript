@@ -1,7 +1,7 @@
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
-import { Home } from "features/Home/Home";
-import { InputForm } from "features/InputForm";
+import { Home } from "features/home/Home";
+import { InputForm } from "features/inputform/InputForm";
 
 function App() {
   return (
